@@ -72,9 +72,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if (box.top <= 150 && box.bottom >= 150) {
         section.classList.add('active-class');
         document.querySelector(`a[href="#${section.id}"]`).classList.add('active');
+        console.log(`Added active class to ${section.id}`);
       } else {
         section.classList.remove('active-class');
         document.querySelector(`a[href="#${section.id}"]`).classList.remove('active');
+        console.log(`Removed active class from ${section.id}`);
       }
     });
   };
