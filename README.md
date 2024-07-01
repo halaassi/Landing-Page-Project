@@ -1,7 +1,8 @@
-# Landing Page Project
 
+## Project Name
+Landing Page Project
 
-## Table of Contents
+### Table of Contents
 
 - [Project Description](#project-description)
 - [Usage](#usage)
@@ -9,11 +10,11 @@
 - [Installation](#installation)
 - [Credits](#credits)
 
-## Project Description
+### Project Description
 
 The starter project includes HTML and CSS styling for a static Landing Page. The goal is to transform this static webpage into an interactive one using JavaScript. This involves dynamically building a navigation menu, implementing smooth scrolling, highlighting active sections based on scroll position, toggling section visibility, and adding a scroll-to-top button for enhanced user experience. The project aims to demonstrate proficiency in DOM manipulation and event handling to create a responsive and engaging web experience.
 
-## Usage
+### Usage
 
 1. Navigation: The navigation menu dynamically updates based on the sections defined in the HTML. Each menu item corresponds to a section on the page.
 
@@ -27,17 +28,17 @@ The starter project includes HTML and CSS styling for a static Landing Page. The
 
 To use the project effectively, simply open the HTML file in a web browser. Navigate through the sections using the menu links or by scrolling manually. Interact with section headers to expand or collapse content. Enjoy a seamless and interactive browsing experience powered by JavaScript.
 
-## Dependencies
+### Dependencies
 
 - JavaScript ES6
 - CSS3
 
-## Installation
+### Installation
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/halaassi/Landing-Page-Project.git`
 2. Open `index.html` in your web browser.
 
-## Credits
+### Credits
 
 This project made by Hala Assi 
 resources used:
@@ -51,4 +52,3 @@ resources used:
 ---
 
 © 2024 Hala Assi 
-
